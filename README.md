@@ -1,6 +1,5 @@
 # EncryptedChats
-End-to-end encrypted real-time chat application built on
-SpringBoot and React
+End-to-end encrypted real-time chat application built on Java, SpringBoot and React
 
 ## Workflow
 ![NIS_J_flow_diagram_final](https://user-images.githubusercontent.com/47914919/124711610-e724ed00-df1b-11eb-8593-38894b175505.png)
